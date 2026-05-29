@@ -3,6 +3,10 @@ rg = {
         rg_name ="argh_rg"
         rg_location = "central india"
     }
+    "rg4" = {
+    rg_name ="argh_rg4"
+    rg_location = "central india"
+}
 }
 
 vnet = {
